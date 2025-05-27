@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/pipeline_diagram.png" alt="MIMIC-III Pipeline Diagram" width="600"/>
+  <img src="images/pipeline.png" alt="MIMIC-III Pipeline Diagram" width="600"/>
 </p>
 
 # MIMIC-III Big Data Pipeline: From Raw Data to Actionable Insights
@@ -8,7 +8,7 @@ Welcome to the MIMIC-III Big Data Pipeline project! This repository demonstrates
 
 ## Pipeline Overview
 
-The pipeline transforms raw MIMIC-III data into queryable insights through a series of well-defined steps, as shown in the diagram above, created using [Draw.io](https://app.diagrams.net/). The flow includes:
+The pipeline transforms raw MIMIC-III data into queryable insights through a series of well-defined steps, as shown in the diagram above. The flow includes:
 - **MIMIC-III Database**: Extract raw CSVs.
 - **Jupyter Notebook**: Clean data and convert to Avro (Windows desktop).
 - **Docker (Hadoop)**: Host HDFS for storage.
