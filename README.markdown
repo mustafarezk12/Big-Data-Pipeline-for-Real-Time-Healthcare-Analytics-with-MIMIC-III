@@ -73,8 +73,10 @@ The pipeline transforms raw MIMIC-III data into queryable insights through a ser
 
 1. **Clone the Repository**:
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-name>
+   git clone (https://github.com/mustafarezk12/Big-Data-Pipeline-for-Real-Time-Healthcare-Analytics-with-MIMIC-III.git)
+   cd     Big-Data-Pipeline-for-Real-Time-Healthcare-Analytics-with-MIMIC-III
+
+
    ```
 
 2. **Follow the User Manual**:
